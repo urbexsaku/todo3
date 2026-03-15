@@ -13,7 +13,13 @@
 <header class="header">
   <div class="header__inner">
     <a class="header__logo" href="/">To Do</a>
+    <nav class="header__nav">
+      <ul>
+        <li><a class="header__nav-link" href="/categories">カテゴリ一覧</a></li>
+      </ul>
+    </nav>
   </div>
+ 
 </header>
 
 <main>
